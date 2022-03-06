@@ -126,3 +126,6 @@ To obtain the logos, you need to connect to KUT's network system. You can connec
 ## Examples
 
 You will find some examples in [examples](examples) folder.
+
+## KUTcs (variant theme, check out `cs` branch)
+[Wiki](../../wiki)
